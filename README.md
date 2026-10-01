@@ -59,3 +59,6 @@ Download `Sales_Performance_Dashboard.twbx` and open it using **Tableau Desktop*
 **Sales Analysis using MySQL and Tableau**
 
 This project demonstrates practical skills in **SQL, data analysis, data visualization, and dashboard development**.
+
+## MY SQL Password
+abc123
